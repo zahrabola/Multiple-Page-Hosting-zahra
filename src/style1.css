@@ -54,3 +54,10 @@ h4 {
 .email-link:hover {
   text-decoration: underline;
 }
+a {
+  font-family: monospace;
+}
+footer {
+  text-align: center;
+  font-family: monospace;
+}
