@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="src/style1.css" />
+    <title>photo</title>
+  </head>
+  <body>
+    <h1>Croissant</h1>
+    <h2>Chocolate Bicolour Croissant</h2>
+    <h3>
+      A combination of plain croissant and chocolate croissant dough interleaved
+      and filled with a chocolate cream.
+      <br />
+      <small> Crispy on the outside, soft and chocolaty on the inside. </small>
+    </h3>
+    <img
+      src="images/Chocolate-Croissant.jpg"
+      id="img-Croissant"
+      class="img-fluid"
+      alt="Croissant"
+    />
+    <footer id="back">
+      <a href="index.html" class="back"> Back to Homepage </a>
+    </footer>
+  </body>
+</html>
