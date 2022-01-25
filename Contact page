@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="src/style1.css" />
+    <title>Contact</title>
+  </head>
+  <body>
+    <h1>Croissant</h1>
+    <h2>Chocolate Bicolour Croissant recipe.</h2>
+
+    <h3>7 Tips for Making the Perfect Croissant.</h3>
+
+    <h4 id="contact">
+      Contact:
+      <a href="mailto:Croissantrecipe@hotmail.com" class="email-link">
+        Croissantrecipe@hotmail.com
+      </a>
+    </h4>
+    <footer id="back">
+      <a href="index.html" class="back"> Back to Homepage </a>
+    </footer>
+  </body>
+</html>
